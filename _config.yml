@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "W❤M"
+# title                    : "W❤M"
 title_separator          : "-"
 name                     : &name "WUZ"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "W❤M"
   avatar           : "1.jpg"
-  bio              : "个人小站"
-  location         : "Location"
+  # bio              : "个人小站"
+  # location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WUZHExl"
+  # github           : "WUZHExl"
   google_plus      :
   keybase          :
   instagram        :
