@@ -11,7 +11,7 @@ redirect_from:
 喜欢酷酷的毛昊莹
 ======
 
-![酷](/images/3.jpg)
+<!-- ![酷](/images/3.jpg) -->
 
 <img src="https://github.com/WUZHExl/WUZHExl.github.io/blob/master/images/3.jpg" width="400" height="500" />
 
