@@ -11,7 +11,7 @@ redirect_from:
 喜欢酷酷的毛昊莹
 ======
 
-![酷](/images/3.jpg)
+![酷](/images/3.jpg =400x300)
 
 
 <!--
