@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WUZHE"
+title                    : "WM"
 title_separator          : "-"
 name                     : &name "WUZ"
 description              : &description "personal description"
