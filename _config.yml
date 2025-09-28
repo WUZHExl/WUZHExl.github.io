@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "W❤M"
+  # name             : "W❤M"
   avatar           : "1.jpg"
   # bio              : "个人小站"
   # location         : "Location"
