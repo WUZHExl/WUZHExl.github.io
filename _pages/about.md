@@ -16,7 +16,7 @@ redirect_from:
 <!--<img src="https://github.com/WUZHExl/WUZHExl.github.io/blob/master/images/3.jpg" width="400" height="500" />-->
 
 
-喜欢认真拍照的毛昊莹
+喜欢美美的毛昊莹
 ======
 
  ![酷](/images/5.jpg)
