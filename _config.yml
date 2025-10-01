@@ -82,7 +82,7 @@ analytics:
 author:
   # name             : "W❤M"
   avatar           : "1.jpg"
-  bio              : "          forever"
+  # bio              : "          forever"
   # location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
